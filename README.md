@@ -46,11 +46,23 @@ EmoHarmony is an application that uses real-time emotion detection to recommend 
 
 ## Screenshots:
 
-![Screenshot 1: Emotion Detection](/screenshots/emotion_detection.png)
-*Description of the screenshot.*
+*Main.java - Main GUI file*<br>
+![Screenshot 1: Main Interface](/Screenshots/jpack1.png)
 
-![Screenshot 2: Music Recommendation](/screenshots/music_recommendation.png)
-*Description of the screenshot.*
+*Hardcoded Notepad*<br>
+![Screenshot 2: Calculator](/Screenshots/jpack2.png)
+
+*Calendar*<br>
+![Screenshot 1: Main Interface](/Screenshots/jpack3.png)
+
+*Calculator*<br>
+![Screenshot 2: Calculator](/Screenshots/jpack4.png)
+
+*Snake game*<br>
+![Screenshot 1: Main Interface](/Screenshots/jpack5.png)
+
+*Tic Tac Toe*<br>
+![Screenshot 2: Calculator](/Screenshots/jpack6.png)
 
 ...
 
