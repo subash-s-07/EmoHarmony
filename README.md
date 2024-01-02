@@ -47,22 +47,22 @@ EmoHarmony is an application that uses real-time emotion detection to recommend 
 ## Screenshots:
 
 <h2>Home Page</h2>
-<img src="/Screenshots/1.png" alt="Home Page" width="400" />
+<img src="/Screenshots/1.png" alt="Home Page" width="600" />
 
 <h2>About Model</h2>
-<img src="/Screenshots/2.png" alt="About Model" width="400" />
+<img src="/Screenshots/2.png" alt="About Model" width="600" />
 
 <h2>How model Works</h2>
-<img src="/Screenshots/3.png" alt="How model Works" width="400" />
+<img src="/Screenshots/3.png" alt="How model Works" width="600" />
 
 <h2>Music Player</h2>
-<img src="/Screenshots/4.png" alt="Music Player" width="400" />
+<img src="/Screenshots/4.png" alt="Music Player" width="600" />
 
 <h2>Music Space</h2>
-<img src="/Screenshots/6.png" alt="Music Space" width="400" />
+<img src="/Screenshots/6.png" alt="Music Space" width="600" />
 
 <h2>Music Classifier</h2>
-<img src="/Screenshots/5.png" alt="Music Classifier" width="400" />
+<img src="/Screenshots/5.png" alt="Music Classifier" width="600" />
 
 
 
