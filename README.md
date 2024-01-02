@@ -59,7 +59,7 @@ EmoHarmony is an application that uses real-time emotion detection to recommend 
 ![Screenshot 4: Music Player](/Screenshots/4.png)
 
 *Music Space*<br>
-![Screenshot 5:Music Space](/Screenshots/Capstone 6.png)
+![Screenshot 5:Music Space](/Screenshots/6.png)
 
 *Music Classifier*<br>
 ![Screenshot 6: Music Classifier](/Screenshots/5.png)
