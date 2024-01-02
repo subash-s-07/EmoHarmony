@@ -1,4 +1,4 @@
-#EmoHarmony
+# EmoHarmony
 EmoHarmony is an application that uses real-time emotion detection to recommend music based on the user's current emotional state. The project integrates a Flask web server with a Convolutional Neural Network (CNN) model for emotion detection and a music classification model for recommending music.
 
 ## Features:
